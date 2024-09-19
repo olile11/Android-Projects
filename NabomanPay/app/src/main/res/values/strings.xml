@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NabomanPay</string>
+    <string name="title_activity_extract">ExtractActivity</string>
+    <string name="title_activity_report">ReportActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_edit_profile">EditProfileActivity</string>
+    <string name="title_activity_slip">SlipActivity</string>
+    <string name="title_activity_done">DoneActivity</string>
+</resources>
